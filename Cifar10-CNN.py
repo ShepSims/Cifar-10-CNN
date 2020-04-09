@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec  7 18:14:08 2019
-
+CNN used for training and classification of digits in the Cifar-10 dataset provided by Keras
 @author: simsshepherd
 """
 
